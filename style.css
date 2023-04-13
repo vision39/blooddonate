@@ -328,3 +328,17 @@ nav .navigation ul li a {
 .box:hover::before{
     background-color: rgba(0, 0, 0, 0.1);
 }
+
+footer{
+    margin-top: 5px;
+    padding: 5px;
+    background: linear-gradient(to right, rgb(214, 4, 4), red, rgb(214, 4, 4));
+}
+
+.footer-content{
+    font-size: 12px;
+    display: flex;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+}
