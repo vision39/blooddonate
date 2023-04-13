@@ -8,15 +8,15 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <nav>
+<nav>
         <h6>Blood donation</h6>
         <div class="navigation">
             <ul>
-                <li><a href="/index.html">Home</a></li>
-                <li><a href="/about.html">About</a></li>
-                <li><a href="/contribute.html">Contribute</a></li>
-                <li><a href="/contact.html">Contact Us</a></li>
-                <li><a href="/login.html">Login</a></li>
+                <li><a href="/bd/index.php">Home</a></li>
+                <li><a href="/bd/about.php">About</a></li>
+                <li><a href="/bd/contribute.php">Contribute</a></li>
+                <li><a href="/bd/contact.php">Contact Us</a></li>
+                <li><a href="/bd/login.php">Login</a></li>
             </ul>
         </div>
     </nav>

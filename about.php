@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact</title>
+    <title>About</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -12,14 +12,18 @@
         <h6>Blood donation</h6>
         <div class="navigation">
             <ul>
-                <li><a href="/index.html">Home</a></li>
-                <li><a href="/about.html">About</a></li>
-                <li><a href="/contribute.html">Contribute</a></li>
-                <li><a href="/contact.html">Contact Us</a></li>
-                <li><a href="/login.html">Login</a></li>
+                <li><a href="/bd/index.php">Home</a></li>
+                <li><a href="/bd/about.php">About</a></li>
+                <li><a href="/bd/contribute.php">Contribute</a></li>
+                <li><a href="/bd/contact.php">Contact Us</a></li>
+                <li><a href="/bd/login.php">Login</a></li>
             </ul>
         </div>
     </nav>
-    <h1>Contact Us</h1>
+
+    <div class="container">
+        <h1>About Us</h1>
+    </div>
+    
 </body>
 </html>
