@@ -333,6 +333,7 @@ footer{
     margin-top: 5px;
     padding: 5px;
     background: fff;
+    border-top: 1px solid black;
 }
 
 .footer-content{
