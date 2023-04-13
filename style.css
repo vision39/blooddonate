@@ -332,7 +332,7 @@ nav .navigation ul li a {
 footer{
     margin-top: 5px;
     padding: 5px;
-    background: linear-gradient(to right, rgb(214, 4, 4), red, rgb(214, 4, 4));
+    background: black;
 }
 
 .footer-content{
