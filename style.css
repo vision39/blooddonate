@@ -332,13 +332,13 @@ nav .navigation ul li a {
 footer{
     margin-top: 5px;
     padding: 5px;
-    background: rgb(74, 73, 73);
+    background: fff;
 }
 
 .footer-content{
     font-size: 12px;
     display: flex;
-    color: #fff;
+    color: #000;
     align-items: center;
     justify-content: center;
 }
