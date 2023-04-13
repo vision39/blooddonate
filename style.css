@@ -332,7 +332,7 @@ nav .navigation ul li a {
 footer{
     
     padding: 5px;
-    background: fff;
+    background: #fff;
     border-top: 1px solid black;
 }
 
@@ -342,4 +342,22 @@ footer{
     color: #000;
     align-items: center;
     justify-content: center;
+}
+
+/* About Section */
+
+.container{
+    display: flex;
+    height: 30%;
+    background-color: #000;
+}
+
+h1{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 26vh;
+    z-index: 1;
+    left: 45%;
 }
