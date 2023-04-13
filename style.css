@@ -52,8 +52,8 @@ nav .navigation ul li a {
 
 .content h6 {
     position: absolute;
-    width: 428px;
-    height: 154px;
+    width: 400vh;
+    height: 100vh;
     left: 154px;
     top: 222px;
     z-index: 1;
